@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1915c0-e83a-4645-9ff6-08b11c3ec8d2" name="Changes" comment="init project">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/FinalPythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_3_2023_9_01_PM_[Changes]/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_3_2023_9_01_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_3_2023_9_01_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classroom/templates/classroom/students/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/templates/classroom/students/_header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classroom/templates/classroom/students/interests_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/templates/classroom/students/interests_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classroom/templates/classroom/students/quiz_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/templates/classroom/students/quiz_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classroom/templates/classroom/students/take_quiz_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/templates/classroom/students/take_quiz_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classroom/templates/classroom/students/taken_quiz_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/templates/classroom/students/taken_quiz_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classroom/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classroom/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +54,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maivi/PycharmProjects/WebTracNghiemDjango&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/maivi/OneDrive - The University of Technology/Desktop/FinalPythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="WebTracNghiemDjango" type="Python.DjangoServer" factoryName="Django server">
       <module name="WebTracNghiemDjango" />
@@ -104,6 +104,7 @@
       <workItem from="1682304219752" duration="1990000" />
       <workItem from="1682306234765" duration="218000" />
       <workItem from="1682306476525" duration="1218000" />
+      <workItem from="1684231515754" duration="1217000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1682305149042</created>
@@ -131,6 +132,29 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/cong" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project by Quynh" />
